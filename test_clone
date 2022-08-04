@@ -1,0 +1,4 @@
+#!/usr/bin/python3
+""" A code that justs welcomes every one to the AirBnB_clone project """
+
+print("Hello AirBnB_clone project")
